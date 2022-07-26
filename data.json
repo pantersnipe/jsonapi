@@ -1,14 +1,16 @@
-[
-	{
-		"id": 1,
-		"manufacturer": "سازنده سایت",
-		"profileImgUrl": "https://lh3.googleusercontent.com/_Ud___TCm3h-3y0PtK2rOcxlJ3ISawmO5BeMHn6flmN6wnBZF-tecEa0lfNccuIFZLfXjZj8UfYtpbOgmUALywRK68n3WNRh461pw_DowF2IOmJdsVqhsS9wc_P3bVobuYoYKSrSWFXusgWxhAjJHRU7yJqdRoZSak_joHN-heDpU9A0NPrN57IYpyHsG4GCeeN5fPsNZCvS9Y3LsX3QtzG8v9ebX7UaGcLzokF_WCrrCvTs1qHCmCBjd-Hrv4bdHnWW6p-kG7KrgZKzZKlWedMRuJfeR-5eJwND-BTlm6Az4Wsoikq1Ik55elmkD5lBOJM8guZIgDA5_-sjbrDw8SIYGdwXysvE9wt43Uwr2W17A4XaKxVSZAnoqBXXONFZ0Vy-Hlzh4ZxV5MuRqCAUaAH3QVDdm1gYPP9wvZf1KG-Dk2G3tsqB7C8ddRXg_CTnkZtdp1hVeeWC8dOO7rCV7kzoGZhNrqUGqPqT-K9s9-NabP_cfSA5gp-FzSSjaW2GomWUqeObjkdrfW0k_5M2rx1CINWAmoQYc3UE4Bt9VwvIPHWOjYkPHwjMp7ota8ugzhi4aQhuTye7fR8TvQ1jT66arhV-dtRAd4RmoZ322PwyXo_C6I_FQoYufSw972XedWtwBNDTcGo2oX96k7G85PCNttwXzWv-F5tB9WZNlplXZdNLbSIXSJjeGZMabchwvTATGTyTa-q_zHCNSf1MeQLQfSyXBFxHT1Yhw_NAGrKHb7vXLTNY3LJms3foIA=w452-h640-no?authuser=0",
-		"pageImageUrl": "https://robohash.org/1",
-		"title": "خوش آمدید",
-		"newsDescription": "به وبسایت مکتب الصادق خوش آمدید. این وبسایت ....",
-		"description": "به وبسایت مکتب الصادق خوش آمدید. این وبسایت یک وبسایت آموزشی و خصوصی است و اگر در اصفهان زندگی میکنید و میخواهید عضو خانواده مکتب الصادق شوید به بخش ثبت نام مراجعه نمایید.باتشکر از شما طاها خلیلی",
-		"date": "1400/5/10",
-		"whatsAppUrl": "https://chat.whatsapp.com/JA2khSxVVF21i8MTbwPEzA",
-		"phone": "09391393421"
-	}
-]
+{
+	"news": [
+		{
+			"id": 1,
+			"manufacturer": "سازنده سایت",
+			"profileImgUrl": "https://lh3.googleusercontent.com/_Ud___TCm3h-3y0PtK2rOcxlJ3ISawmO5BeMHn6flmN6wnBZF-tecEa0lfNccuIFZLfXjZj8UfYtpbOgmUALywRK68n3WNRh461pw_DowF2IOmJdsVqhsS9wc_P3bVobuYoYKSrSWFXusgWxhAjJHRU7yJqdRoZSak_joHN-heDpU9A0NPrN57IYpyHsG4GCeeN5fPsNZCvS9Y3LsX3QtzG8v9ebX7UaGcLzokF_WCrrCvTs1qHCmCBjd-Hrv4bdHnWW6p-kG7KrgZKzZKlWedMRuJfeR-5eJwND-BTlm6Az4Wsoikq1Ik55elmkD5lBOJM8guZIgDA5_-sjbrDw8SIYGdwXysvE9wt43Uwr2W17A4XaKxVSZAnoqBXXONFZ0Vy-Hlzh4ZxV5MuRqCAUaAH3QVDdm1gYPP9wvZf1KG-Dk2G3tsqB7C8ddRXg_CTnkZtdp1hVeeWC8dOO7rCV7kzoGZhNrqUGqPqT-K9s9-NabP_cfSA5gp-FzSSjaW2GomWUqeObjkdrfW0k_5M2rx1CINWAmoQYc3UE4Bt9VwvIPHWOjYkPHwjMp7ota8ugzhi4aQhuTye7fR8TvQ1jT66arhV-dtRAd4RmoZ322PwyXo_C6I_FQoYufSw972XedWtwBNDTcGo2oX96k7G85PCNttwXzWv-F5tB9WZNlplXZdNLbSIXSJjeGZMabchwvTATGTyTa-q_zHCNSf1MeQLQfSyXBFxHT1Yhw_NAGrKHb7vXLTNY3LJms3foIA=w452-h640-no?authuser=0",
+			"pageImageUrl": "https://robohash.org/1",
+			"title": "خوش آمدید",
+			"newsDescription": "به وبسایت مکتب الصادق خوش آمدید. این وبسایت ....",
+			"description": "به وبسایت مکتب الصادق خوش آمدید. این وبسایت یک وبسایت آموزشی و خصوصی است و اگر در اصفهان زندگی میکنید و میخواهید عضو خانواده مکتب الصادق شوید به بخش ثبت نام مراجعه نمایید.باتشکر از شما طاها خلیلی",
+			"date": "1400/5/10",
+			"whatsAppUrl": "https://chat.whatsapp.com/JA2khSxVVF21i8MTbwPEzA",
+			"phone": "09391393421"
+		}
+	]
+}
